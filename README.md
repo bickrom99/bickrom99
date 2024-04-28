@@ -16,7 +16,7 @@ I believe that finishing a task well is more important than finishing it quickly
 <p>
  ✔  HTML5  </br>
  ✔  CSS3   </br>
- ✔  BOOSTRAP5  </br>
+ ✔  BOOTSTRAP5  </br>
  ✔  JAVASCRIPT  </br>
  ✔  REACT  </br>
  ✔  WORDPRESS </br> 
