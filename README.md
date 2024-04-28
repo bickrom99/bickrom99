@@ -1,5 +1,4 @@
 <h2 align='center'> Hi there 👋, i'm Bickrom chandro sen </h2>
-<hr color='black'>
 <p>
 👉 I'm front-end web developer. </br>
 👉 I'm WordPress designer. </br>
@@ -20,7 +19,8 @@ I believe that finishing a task well is more important than finishing it quickly
  ✔  BOOSTRAP5  </br>
  ✔  JAVASCRIPT  </br>
  ✔  REACT  </br>
- ✔  WORDPRESS </br> </br>
+ ✔  WORDPRESS </br> 
+ ✔  FIGMA/PSD/XD - to - HTML/WORDPRESS </br> </br>
 
 <h3> 🚩 KNOW MORE </h3> 
 <hr color='black'>
@@ -35,7 +35,7 @@ Media : </br>
 <a href="https://www.facebook.com/bickrom99/">facebook</a> || 
 <a href="https://twitter.com/bickrom99">twitter</a> </br> </br>
 
-Gmail :
+Gmail : </br>
  (bickromsen99@gmail.com)  
 <p>THANK YOU✋</p>
 
