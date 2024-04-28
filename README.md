@@ -1,4 +1,4 @@
-<h2 align='center'> Hi there 👋, i'm Bickrom chandro sen </h2>
+<h2 align='center'> Hi 👋, i'm Bickrom chandro sen </h2>
 <p>
 👉 I'm Front-end web developer. </br>
 👉 I'm Wordpress designer. </br>
