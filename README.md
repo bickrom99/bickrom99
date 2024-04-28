@@ -1,7 +1,7 @@
 <h2 align='center'> Hi there 👋, i'm Bickrom chandro sen </h2>
 <p>
-👉 I'm front-end web developer. </br>
-👉 I'm WordPress designer. </br>
+👉 I'm Front-end web developer. </br>
+👉 I'm Wordpress designer. </br>
 💪 Always love to create something new you.  </br>
 🤝 Grow your business with us.  </br> </br>
 </p>
