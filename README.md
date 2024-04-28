@@ -1,16 +1,42 @@
-### Hi there 👋
+<h2 align='center'> Hi there 👋, i'm Bickrom chandro sen </h2>
+<hr color='black'>
+<p>
+👉 I'm front-end web developer. </br>
+👉 I'm WordPress designer. </br>
+💪 Always love to create something new you.  </br>
+🤝 Grow your business with us.  </br> </br>
+</p>
+ <h3> 🚩 ABOUT ME </h3> 
+<hr color='black'>
+Hello, I'm Bickrom Chandro Sen , a Frontend Web Developer with over 1.5 years of practical experience in Web Design and Development industry. I am always looking for new ways to apply my skills to web Development and design . </br> </br>
 
-<!--
-**bickrom99/bickrom99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe that finishing a task well is more important than finishing it quickly. </br>
 
-Here are some ideas to get you started:
+<h3> 🚩 SKILLS & EXPERIENCE </h3> 
+<hr color='black'>
+<p>
+ ✔  HTML5  </br>
+ ✔  CSS3   </br>
+ ✔  BOOSTRAP5  </br>
+ ✔  JAVASCRIPT  </br>
+ ✔  REACT  </br>
+ ✔  WORDPRESS </br> </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🚩 KNOW MORE </h3> 
+<hr color='black'>
+<p>✅ I’m currently learning JavaScript, React </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)  </br> </br>
+
+<h3> 🤝 CONTACT ME </h3> 
+<hr color='black'>  
+Media : </br>
+  <a href="https://www.linkedin.com/in/bickrom99/">linkedin</a> ||
+<a href="https://www.facebook.com/bickrom99/">facebook</a> || 
+<a href="https://twitter.com/bickrom99">twitter</a> </br> </br>
+
+Gmail :
+ (bickromsen99@gmail.com)  
+<p>THANK YOU✋</p>
+
+
